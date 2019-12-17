@@ -7,6 +7,9 @@ export default class Listcontainer extends React.Component{
         return(
             <Section>
                 This will be a list of the imported entries 
+                <div>
+                    list goes here
+                </div>
             </Section>
         )
     }
